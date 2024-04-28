@@ -23,6 +23,19 @@ Hi there! I'm a enjoyable and sportive passionate developer. I am interested in 
   <img src="https://leetcard.jacoblin.cool/kalaiselvan_k211?ext=heatmap">
 </p>
 
+<br/>
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KALAISELVANK-18&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KALAISELVANK-18&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
+
+</td></tr></table> 
+<br/>
 
 ## Languages and Tools  
 <div align="center">  
@@ -43,23 +56,7 @@ Hi there! I'm a enjoyable and sportive passionate developer. I am interested in 
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="25" /></a>   
 </div>  
 
-<br/>  
 
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KALAISELVANK-18&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KALAISELVANK-18&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
-
-</td></tr></table>  
-
-<br/>  
-
-  
 
 <br/>  
 

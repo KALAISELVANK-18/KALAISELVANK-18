@@ -36,6 +36,12 @@ Hi there! I'm a enjoyable and sportive passionate developer. I am interested in 
 
 </td></tr></table> 
 <br/>
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=manosundarmanivel&&style=flat-square)  
+  
+
+<br/> 
 
 ## Languages and Tools  
 <div align="center">  
@@ -55,15 +61,7 @@ Hi there! I'm a enjoyable and sportive passionate developer. I am interested in 
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="25" /></a>    
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="25" /></a>   
 </div>  
-
-
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=manosundarmanivel&&style=flat-square)  
-  
-
-<br/>  
+ 
 
 
 <br />

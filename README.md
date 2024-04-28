@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-Hi there! I'm a enjoyable and sportive passionate developer. I am interested in working with mobile app development, deep learning, Full stack development with strong problem solving and analytical skills. I always like to be self motivated and grounding a new innovative products. My experience make me strong enough to organize the teams.
+Hi there! I'm an enjoyable and sportive passionate developer. I am interested in working with mobile app development, deep learning, Full stack development with strong problem solving and analytical skills. I always like to be self motivated and grounding a new innovative products. My experience make me strong enough to organize the teams.
   
 
 <h1>Leetcode: </h1>
